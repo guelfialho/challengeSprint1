@@ -25,6 +25,11 @@
 
 <br><br>
 
+## 🛠 &nbsp;Log do Projeto
+- Log da branch Main: 
+![log_sprint1](https://user-images.githubusercontent.com/100007542/156460752-85097dc8-5a39-46e2-b447-9942edf1252b.PNG)
+<br><br>
+
 ## 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
